@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website repository! This project is designed as a modern, high-visibility digital resume showcasing my experience, core certifications, and technical skills as an Occupational Health & Safety Professional based in Dubai, UAE.
 
-🔗 **Live Portfolio:** [Insert your hosted link here, e.g., GitHub Pages or Netlify link]  
+🔗 **Live Portfolio:** http://rashid.qzz.io  
 💼 **LinkedIn Profile:** [rashid-ahmad-593859299](https://www.linkedin.com/in/rashid-ahmad-593859299)
 
 ---
