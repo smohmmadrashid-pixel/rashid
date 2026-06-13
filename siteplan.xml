@@ -1,0 +1,49 @@
+[GLOBAL HEADER]
+ └── Logo (RASHID AHMAD)
+ └── Navigation Links (Smooth-scroll Anchors)
+ └── Mobile Burger Menu Trigger (Managed by script.js)
+│
+├── 🎯 #home (Hero Section)
+│    ├── Availability Badge ("Available for Opportunities")
+│    ├── Value Proposition (H1 + Catchy Subhead)
+│    ├── Primary Action Callouts ("Contact Details" / "View Work")
+│    └── Embedded Vector Art (Clean, fast-loading inline SVG shield)
+│
+├── 📊 .stats-bar (Trust Metrics Block)
+│    ├── Safety Compliance Card (100%)
+│    ├── Toolbox Talks Counter (Daily)
+│    └── Incident Performance Indicator (Zero Target)
+│
+├── 👤 #about (Professional Summary)
+│    ├── Executive Intro Paragraph
+│    └── Personal Demographics Grid (Location, Nationality, Languages, Education)
+│
+├── 💼 #experience (Interactive Timeline)
+│    └── Vertical Node: Ashiyana Contracting LLC
+│         ├── Role & Duration Block
+│         └── Core Impact Bullet Points
+│
+├── 📜 #credentials (Dynamic Tabbed Workspace - Managed by script.js)
+│    ├── Tab Controllers [Core Certifications] | [Specialized Trainings]
+│    │
+│    ├── 📂 Tab Pane A: #certs (Active by Default)
+│    │    ├── IOSH Professional Certification Card
+│    │    └── Dubai Silicon Oasis Authority Supervisor Card
+│    │
+│    └── 📂 Tab Pane B: #trainings (Hidden until clicked)
+│         ├── Fire Warden Card
+│         ├── Scaffolding Inspector Card
+│         └── First Aid Personnel Card
+│
+├── ⚡ #skills (Core Expertise Framework)
+│    ├── Column 1: HSE Specializations (PTW, Toolbox Talks, HazId, Induction)
+│    └── Column 2: Administrative & Technical (Reporting, Checklists, MS Office)
+│
+├── 📞 #contact (Direct Access Terminal)
+│    ├── Direct Phone Node (tel: click-to-dial link)
+│    ├── Direct Email Node (mailto: hyper-linked email address)
+│    └── LinkedIn Networking Node (Targeted off-site link)
+│
+[GLOBAL FOOTER]
+ ├── Copyright Indicator (© 2026 Rashid Ahmad)
+ └── Redundant Social Node Layout (Quick-access LinkedIn/Email icons)
